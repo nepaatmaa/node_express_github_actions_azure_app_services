@@ -17,7 +17,7 @@ app.get('/', function (req, res) {
 
 //http://localhost:3000/name
 app.get('/name', function (req, res) {
-  res.send("<h1>C0860166 - Subash/h1>")
+  res.send("<h1>C0860166 - Subash </h1>")
 })
 
 
